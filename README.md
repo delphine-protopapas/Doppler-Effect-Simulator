@@ -1,2 +1,6 @@
 # Doppler-Effect-Simulator
-The program is used to simulate the Doppler Effect, in both light and sound. 
+The program is used to simulate the Doppler Effect, in both light and sound. It has an explanation part that the user can view in order to learn more about the doppler effect, as well as a simulator of the doppler effect for light, which gives a value for the perceived frequency and a corresponding displayed color, and a simulator of the doppler effect for sound, which gives a value for the perceived frequency and the corresponding sound made with a beeping noise.
+
+The major features are the explanation function which teaches the student about the doppler effect, the light simulator, and the sound simulator. These are all integrated into an experience that lets the user navigate between the different functions and try all of them. The main idea of the program is to teach the student about the doppler effect and allow them to calculate the shift in frequency based on the variables in the equation.
+
+Part of the project is code that I didn't write, but I translated from javascript to python and integrated it into my program. This code is only there to complete one conversion that was too complicated for me to figure out myself, but the rest of the program is entirely my own idea and code, and I just integrated that one function into the middle of it in order to convert wavelength in nanometers to RGB. I also credited the website I got it from in the comments.
